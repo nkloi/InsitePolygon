@@ -1,0 +1,16 @@
+Polygon Name	Long	Lat
+Polygon01	2	6
+Polygon01	2	16
+Polygon01	7	21
+Polygon01	12	16
+Polygon01	12	11
+Polygon01	7	6
+Polygon02	8	8
+Polygon02	8	15
+Polygon02	14	21
+Polygon02	20	21
+Polygon02	14	15
+Polygon02	22	15
+Polygon02	17	10
+Polygon02	17	4
+Polygon02	12	4

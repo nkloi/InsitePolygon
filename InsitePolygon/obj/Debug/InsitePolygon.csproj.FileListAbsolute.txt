@@ -1,0 +1,10 @@
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\bin\Debug\InsitePolygon.exe.config
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\bin\Debug\InsitePolygon.exe
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\bin\Debug\InsitePolygon.pdb
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\obj\Debug\InsitePolygon.csprojAssemblyReference.cache
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\obj\Debug\InsitePolygon.Form1.resources
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\obj\Debug\InsitePolygon.Properties.Resources.resources
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\obj\Debug\InsitePolygon.csproj.GenerateResource.cache
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\obj\Debug\InsitePolygon.csproj.CoreCompileInputs.cache
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\obj\Debug\InsitePolygon.exe
+C:\Users\nkloi\source\repos\InsitePolygon\InsitePolygon\obj\Debug\InsitePolygon.pdb
